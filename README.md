@@ -75,11 +75,11 @@ This project simulates **Insertion Sort** using student marks (exam/quiz scores)
 
 Try the deployed version of the app here:
 
-👉 **(https://huggingface.co/spaces/Joelanko2/Exam-panic-sorter/upload/main)**
+👉 **(https://huggingface.co/spaces/Joelanko2/Exam-panic-sorter)**
 
 ---
 
-## Testing & Verification
+## Testing & Verifications
 
 The app was tested with a variety of inputs to ensure correctness and robustness:
 
